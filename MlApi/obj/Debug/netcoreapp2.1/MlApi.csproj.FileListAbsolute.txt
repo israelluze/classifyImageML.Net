@@ -1,0 +1,14 @@
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.csprojAssemblyReference.cache
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.csproj.CoreCompileInputs.cache
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.RazorAssemblyInfo.cache
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.RazorAssemblyInfo.cs
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.AssemblyInfoInputs.cache
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.AssemblyInfo.cs
+C:\Israel\GOVTOSHARE\MlApi\bin\Debug\netcoreapp2.1\MlApi.deps.json
+C:\Israel\GOVTOSHARE\MlApi\bin\Debug\netcoreapp2.1\MlApi.runtimeconfig.json
+C:\Israel\GOVTOSHARE\MlApi\bin\Debug\netcoreapp2.1\MlApi.runtimeconfig.dev.json
+C:\Israel\GOVTOSHARE\MlApi\bin\Debug\netcoreapp2.1\MlApi.dll
+C:\Israel\GOVTOSHARE\MlApi\bin\Debug\netcoreapp2.1\MlApi.pdb
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.RazorTargetAssemblyInfo.cache
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.dll
+C:\Israel\GOVTOSHARE\MlApi\obj\Debug\netcoreapp2.1\MlApi.pdb
