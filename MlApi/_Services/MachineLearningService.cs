@@ -109,6 +109,10 @@ namespace MlApi._Services
             prediction.ImagePath = Path.GetFileName(imageData.ImagePath); 
             prediction.ScoreMax = prediction.Score.Max();
 
+            Console.WriteLine("=============== Making single image classification ===============");            
+            Console.WriteLine($"Image: {Path.GetFileName(imageData.ImagePath)} predicted as: {prediction.PredictedLabelValue} with score: {prediction.Score.Max()} ");
+
+
             return prediction;
         }
 
